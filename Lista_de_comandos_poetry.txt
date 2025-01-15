@@ -1,0 +1,9 @@
+poetry --version
+
+poetry init
+
+poetry add requests beautifulsoup4
+
+poetry env info --path
+
+source /c/Users/Victor/AppData/Local/pypoetry/Cache/virtualenvs/ai-arxiv-scrapping-OO_-bobc-py3.11/Scripts/activate
