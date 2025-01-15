@@ -1,0 +1,15 @@
+# Ignorar o ambiente virtual criado pelo Poetry
+.venv/
+
+# Ignorar arquivos de cache do Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignorar configurações de IDEs (ex.: VSCode, PyCharm)
+.vscode/
+.idea/
+
+# Ignorar arquivos de log e temporários
+*.log
+*.tmp
